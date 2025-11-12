@@ -54,8 +54,6 @@ This project demonstrates how to work with large datasets, from extraction and c
 
 **Clone this repository:**
 
-git clone https://github.com/yourusername/yourrepository.git
-
 **Install the required Python libraries:**
 
 pip install -r requirements.txt
